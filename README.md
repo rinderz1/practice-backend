@@ -42,8 +42,10 @@ or:
 mvnw.cmd spring-boot:run
 ```
 
-## Admin Account
+Admin:
+newadmin@example.com
+qwerty
 
-email: adminRAMIS@gmail.com  
-password: qwerty
-
+Chair:
+newchair@example.com
+qwerty
