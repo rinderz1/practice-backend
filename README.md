@@ -47,7 +47,3 @@ mvnw.cmd spring-boot:run
 email: adminRAMIS@gmail.com  
 password: qwerty
 
-## Chair Account
-
-email: chair@example.com  
-password: qwerty
